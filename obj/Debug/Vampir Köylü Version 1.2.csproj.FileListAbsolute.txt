@@ -1,0 +1,10 @@
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Vampir Köylü Version 1.2\bin\Debug\Vampir Köylü Version 1.2.exe.config
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Vampir Köylü Version 1.2\bin\Debug\Vampir Köylü Version 1.2.exe
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Vampir Köylü Version 1.2\bin\Debug\Vampir Köylü Version 1.2.pdb
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Vampir Köylü Version 1.2\obj\Debug\Vampir Köylü Version 1.2.csprojAssemblyReference.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Vampir Köylü Version 1.2\obj\Debug\Vampir_Köylü_Version_1._2.Form1.resources
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Vampir Köylü Version 1.2\obj\Debug\Vampir_Köylü_Version_1._2.Properties.Resources.resources
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Vampir Köylü Version 1.2\obj\Debug\Vampir Köylü Version 1.2.csproj.GenerateResource.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Vampir Köylü Version 1.2\obj\Debug\Vampir Köylü Version 1.2.csproj.CoreCompileInputs.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Vampir Köylü Version 1.2\obj\Debug\Vampir Köylü Version 1.2.exe
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\Vampir Köylü Version 1.2\obj\Debug\Vampir Köylü Version 1.2.pdb
